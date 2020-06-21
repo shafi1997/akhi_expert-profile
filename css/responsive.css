@@ -1,0 +1,82 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+    
+} 
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {   
+
+    s
+} 
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {  
+
+
+form.easy-ask-form input[type="text"] {
+    width: 65%;
+}
+
+form.easy-ask-form button {
+    width: 35%;
+}
+
+.job-board-card h4 {
+    font-size: 1.2rem;
+}
+
+.job-card-item-top-two {
+    flex: 2.5;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+} 
+
+.job-board-pagination button {
+    padding: 5px 10px;
+}
+.job-card-item {
+    margin-right: 17px;
+}
+
+.session-div {
+    height: auto;
+}
+
+.ask-card-counter {
+    overflow: hidden;
+    float: right;
+    margin-top: 0;
+}
+
+.ask-card-counter-answers {
+    float: left;
+    margin-right: 20px;
+}
+
+.ask-card-counter-res{
+  font-size: 0.8rem;
+}
+
+.expert-bio-details {
+    width: 100%;
+}
+
+.expert-subjects {
+    display: grid;
+}
+
+.educational-qualification-item {
+    padding: 0 20px;
+    width: 100%;
+}
+
+.educational-qualification {
+  overflow: auto;
+}
+
+
+}*/
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) { 
+	
+	
+}
